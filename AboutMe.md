@@ -1,7 +1,7 @@
 
-About me
+About Me
 ========
 
-* School: Htl
+* School: HTL
 * Name: Hannes D.
 * Class: 1LIT
