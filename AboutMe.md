@@ -1,3 +1,3 @@
-School: Htl
-Name: Hannes D.
-Class: 1LIT
+* School: Htl
+* Name: Hannes D.
+* Class: 1LIT
